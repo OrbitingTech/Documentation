@@ -1,5 +1,8 @@
 # Orbiting Road Map
 
+> [!NOTE]
+> If you're interested in a more detailed and well kept roadmap for Orbiting you should check out [our public Trello](https://trello.com/b/T3iRs4kc/orbiting-public).
+
 Keep your eyes on this for updates.
 
 | When       | What                            |

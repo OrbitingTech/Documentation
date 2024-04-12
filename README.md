@@ -14,3 +14,7 @@ If you're looking for a way to interface with Orbiting without one of our librar
 ## Roadmap
 
 For more information on what we're currently working on and what's planned please check out [our roadmap here](ROADMAP.md).
+
+Our public Trello is also available here:
+
+> https://trello.com/b/T3iRs4kc/orbiting-public
