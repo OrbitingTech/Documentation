@@ -1,6 +1,6 @@
 # Orbiting Documentation
 
-![Discord](https://img.shields.io/discord/1226968306221846588)
+[![Discord](https://img.shields.io/discord/1226968306221846588)](https://discord.gg/sg8jHb2cU7)
 
 This is the official repository that contains most of the standard documentation regarding programming around the Orbiting platform.
 
